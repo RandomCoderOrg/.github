@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there 
 
-RandomCoder Org is all about research opensource and make it beautiful
+We're mostly based on running linux/linux apps on android and some side tweaks.
 
+
+## Contact us!
+Mail us at: <br/>
+[Our YT Channel](https://youtube.com/channel/UCgS9ygaWQEjS3JFvMLmeQBA) <br/>
+[Discord Server](https://discord.gg/RAGJmMNSse) <br/>
 
 <!--
 
