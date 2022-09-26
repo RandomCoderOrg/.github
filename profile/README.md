@@ -1,6 +1,11 @@
-![intro banner](https://raw.githubusercontent.com/RandomCoderOrg/.github/main/jpg_20220423_224421_0000.jpg)
+<!-- ![intro banner](https://raw.githubusercontent.com/RandomCoderOrg/.github/main/jpg_20220423_224421_0000.jpg) -->
 
-## About Us
+![Banner](https://user-images.githubusercontent.com/68287637/192203492-35aad75f-788b-469b-ba28-1142c1b14e5c.png)
+
+[link_to_figma](https://www.figma.com/file/ckKqpktLjApptEWOFe92Ms/HacktoberFest-Banner)
+| [Hacktober Fest 2022](https://hacktoberfest.com/)
+## About Us!
+
 
 RandomCoderOrg is a randomly named organization for [udroid](https://github.com/RandomCoderOrg/ubuntu-on-android) project (running ubuntu on android via termux in better way) and it's base. 
 
