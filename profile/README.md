@@ -1,6 +1,6 @@
 <!-- ![intro banner](https://raw.githubusercontent.com/RandomCoderOrg/.github/main/jpg_20220423_224421_0000.jpg) -->
 
-![Banner](https://user-images.githubusercontent.com/68287637/192203492-35aad75f-788b-469b-ba28-1142c1b14e5c.png)
+![Banner](https://user-images.githubusercontent.com/68287637/192204995-7a32849d-2110-45a3-b011-805ebe0356e2.svg)
 
 [link_to_figma](https://www.figma.com/file/ckKqpktLjApptEWOFe92Ms/HacktoberFest-Banner)
 | [Hacktober Fest 2022](https://hacktoberfest.com/)
